@@ -1,2 +1,2 @@
 # BTC
-Inferência em Preços de Bitcoin
+Experimentos de Inferência em Preços de Bitcoin
